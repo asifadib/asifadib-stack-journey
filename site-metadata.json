@@ -57,6 +57,26 @@
       {
         "type": "action",
         "template": "action",
+        "label": "DEV",
+        "url": "https://dev.to/",
+        "style": "icon",
+        "icon_class": "dev",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
+        "label": "GitHub",
+        "url": "https://github.com/asifadib",
+        "style": "icon",
+        "icon_class": "github",
+        "new_window": true,
+        "no_follow": false
+      },
+      {
+        "type": "action",
+        "template": "action",
         "label": "Twitter",
         "url": "https://twitter.com/asifadib780",
         "style": "icon",
@@ -77,30 +97,10 @@
       {
         "type": "action",
         "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/",
-        "style": "icon",
-        "icon_class": "github",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/",
         "style": "icon",
         "icon_class": "linkedin",
-        "new_window": true,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "DEV",
-        "url": "https://dev.to/",
-        "style": "icon",
-        "icon_class": "dev",
         "new_window": true,
         "no_follow": false
       }
