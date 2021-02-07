@@ -14,7 +14,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "প্রধান পাতা পাতা",
+                "label": "প্রধান পাতা",
                 "url": "/",
                 "style": "link"
             },
